@@ -1,0 +1,12 @@
+{
+  "application": "ynmadmin",
+  "environment": "development",
+  "environments": {
+    "development": {
+      "filesVersion": "20479"
+    }
+  },
+  "app": "ynmadmin",
+  "filesVersion": "20479",
+  "mtime": 1718812959442
+}

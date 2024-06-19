@@ -1,0 +1,3 @@
+field on shopifyCollection {
+  coalesce([sum(cast(smartProducts.orderLineItems.price, type: "Number")), 0])
+}
